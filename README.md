@@ -2,7 +2,7 @@
 
 # THE DEV VAULT
 
-### 📚  Learning In Public • 💻 Proof of Work • 🌱 Building in Public
+### 📚 Learning In Public • 💻 Proof of Work • 🌱 Building in Public
 
 Documenting my journey to becoming a **Full-Stack Developer** by learning, practicing, and building with the **MERN Stack** through **Sheryians Coding School**.
 
@@ -15,23 +15,6 @@ Documenting my journey to becoming a **Full-Stack Developer** by learning, pract
 ![Last Commit](https://img.shields.io/github/last-commit/ankitsaha0517/dev-journal?logo=git&logoColor=white) &nbsp;&nbsp;
 
 </div>
-
----
-
-## 👋 About This Repository
-
-This repository serves as my **public learning journal** and **proof of work**.
-It documents everything I learn while following the **MERN Stack curriculum** from **Sheryians Coding School**.
-
-Every Learning Log contains:
-
-- 📖 Notes
-- 💻 Practice Code
-- 📝 Assignments
-- 🚀 Mini Projects
-- 📸 Screenshots (when applicable)
-
-Every commit represents another step in my developer journey.
 
 ---
 
@@ -54,12 +37,12 @@ Every commit represents another step in my developer journey.
 <img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/ankitsaha0517">
-<img src="https://skillicons.dev/icons?i=github" width="30"/>
-</a>
-&nbsp;&nbsp;
 <a href="https://x.com/ankitsaha0517">
 <img src="https://skillicons.dev/icons?i=twitter" width="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ankitsaha0517">
+<img src="https://skillicons.dev/icons?i=github" width="30"/>
 </a>
 &nbsp;&nbsp;
 
