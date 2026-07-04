@@ -53,6 +53,7 @@ Documenting my journey to becoming a **Full-Stack Developer** by learning, pract
 | Log | Today's Focus           | 💻 Practice Code |              📂 Repository               |                                                                                                     🔗 LinkedIn                                                                                                     |
 | :-: | ----------------------- | :--------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 001 | JavaScript Fundamentals |        ✅        | [View](./learning-logs/learning-log-001) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-mern-learninginpublic-share-7478665541566705665-C_NC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
+| 002 | Data Types, Conditionals & Loops |        ✅        | [View](./learning-logs/learning-log-002) |                                                      Coming Soon|
 
 Coming...
 
