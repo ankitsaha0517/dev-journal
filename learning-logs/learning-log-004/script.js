@@ -85,7 +85,7 @@ console.log(isEven(7));
 
 // Arrow Functions with Implicit Return
 // 12.
-const division = (a, b) => a + b;
+const division = (a, b) => a / b;
 console.log(division(10, 20)); 
 
 const isAdult = age => age >= 18;
