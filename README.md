@@ -55,6 +55,8 @@ Documenting my journey to becoming a **Full-Stack Developer** by learning, pract
 | 001 | JavaScript Fundamentals |        ✅        | [View](./learning-logs/learning-log-001) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-mern-learninginpublic-share-7478665541566705665-C_NC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
 | 002 | Data Types, Conditionals & Loops |        ✅        | [View](./learning-logs/learning-log-002) |                                                      [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-frontend-mern-activity-7479026661938642944-k7wD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM)|
 | 003 | Switch statement and for loops |        ✅        | [View](./learning-logs/learning-log-003) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-mern-learninginpublic-activity-7479743729948610560-VmDA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM)|
+| 004 | Functions |        ✅        | [View](./learning-logs/learning-log-004) |   [POST](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-learninginpublic-buildinpublic-share-7480105716356218880-9aVh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM)|
+
 Coming...
 
 ---
