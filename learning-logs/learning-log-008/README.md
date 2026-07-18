@@ -1,0 +1,7 @@
+# Learning Log 008
+
+Day 8 of the JavaScript fundamentals track: objects as key-value collections, plus console methods that go beyond plain `log`.
+
+`script.js` creates an object via literal syntax first, then via `new Object()` with properties added after the fact, to show both exist even though the literal form is the practical default. `Object.freeze()` is used to show shallow immutability in practice — reassigning `config.version` fails silently rather than throwing, since the script isn't in strict mode. It notes `typeof null` is `"object"` as a standalone quirk, separate from the object-creation examples. The rest of the log is about debugging output rather than objects themselves: `console.table()` for tabular arrays of objects (including selecting specific columns), `console.info()` for informational messages, and `console.group()` / `console.groupEnd()` — including a nested group — for indenting related logs together.
+
+`index.html` has been reintroduced, as it provides the most direct means of executing this log in a browser's developer console, where `console.table` and `console.group` render with their intended formatting rather than being flattened to plain terminal output.
