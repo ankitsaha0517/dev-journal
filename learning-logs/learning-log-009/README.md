@@ -32,7 +32,7 @@ Today's session was focused on practicing JavaScript by solving problems based o
 - 👉 [View Practice Questions](questions.md)
 
 💻 **Solutions**
-- 👉 [View JavaScript Solutions](script.js)
+- 👉 [View JavaScript Solutions](ans.js)
 
 ---
 
