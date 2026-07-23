@@ -19,18 +19,15 @@ box2.style.width = "200px";
 box2.style.height = "200px";
 box2.style.borderRadius = "10px";
 
-
 // Event Listeners
 let btn = document.getElementById("btn");
 btn.addEventListener("click", function () {
   console.log("Button was clicked!");
 });
 
-
 // innerHTML VS textContent
 let demo = document.getElementById("title");
-let demo2  = document.getElementById("title1")
+let demo2 = document.getElementById("title1");
 demo.innerHTML = "<b>Bold Text</b> and <i>Italic Text</i>";
 
 demo2.textContent = "<b>Bold Text</b> and <i>Italic Text</i>";
-

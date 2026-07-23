@@ -60,7 +60,10 @@ Documenting my journey to becoming a **Full-Stack Developer** by learning, pract
 | 006 | Pure Functions , Scope & Closures |               |   | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_learning-log-006-ugcPost-7482649085322326016-rCcS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
 | 007 | Array |        ✅        | [View](./learning-logs/learning-log-007) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-learninginpublic-buildinpublic-share-7483367999391981568-yoHd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
 | 008 | Object |        ✅        | [View](./learning-logs/learning-log-008) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-learninginpublic-buildinpublic-ugcPost-7484156104596197376-1Luk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
-| 009 | Loops & Arrays Question practice |        ✅        | [View](./learning-logs/learning-log-009) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-learninginpublic-buildinpublic-ugcPost-7484870718195769345-iHNU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
+| 009 | Loops & Arrays Question practice |        ✅        | [View](./learning-logs/learning-log-009) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-learninginpublic-buildinpublic-ugcPost-7484870718195769345-iHNU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |   
+| 010 | DOM |        ✅        | [View](./learning-logs/learning-log-010) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-dom-learninginpublic-ugcPost-7485248431511293952-aKUQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
+| 011 | MEMORA (Simon Game) |        ✅        | [View](https://github.com/ankitsaha0517/memora-memory-game) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_buildinpublic-javascript-webdevelopment-ugcPost-7486030930327834625-jyOF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM)|
+
 Coming...
 
 ---
