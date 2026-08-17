@@ -65,6 +65,8 @@ Documenting my journey to becoming a **Full-Stack Developer** by learning, pract
 | 011 | MEMORA (Simon Game) |        ✅        | [View](https://github.com/ankitsaha0517/memora-memory-game) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_buildinpublic-javascript-webdevelopment-ugcPost-7486030930327834625-jyOF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM)|
 | 012 | JavaScript Advanced HOFs, Callbacks, and Closures |        ✅        | [View](./learning-logs/learning-log-012) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-learninginpublic-buildinpublic-share-7487378367802093568-nyN0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
 | 013 | Web APIs — `setInterval`, `setTimeout`, and `clearInterval` |        ✅        | [View](./learning-logs/learning-log-013) | [Post](https://www.linkedin.com/posts/ankit-kumar-saha-dev_javascript-learninginpublic-buildinpublic-ugcPost-7487730199078395904-zFLG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb7mA0B61XhF27Gzij4wmm1WCSX6WIxaCM) |
+| 014 | 𝗗𝗢𝗠 𝗔𝘁𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝘀 & 𝗘𝘃𝗲𝗻𝘁𝘀 -  ` setAttribute()`, ` setAttribute()` |        ✅        | [View](./learning-logs/learning-log-014) | [Post](https://lnkd.in/p/d-YazcPP) |
+
 Coming...
 
 ---
