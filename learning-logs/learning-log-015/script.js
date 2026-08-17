@@ -98,3 +98,15 @@ function render() {
   main.innerHTML = sum;
 }
 render()
+
+main.addEventListener("click", function (dets) {
+  let user = data[dets.target.id];
+  if (user.isFriend == "Stranger") {
+    user.isFriend = "Friend";
+  } else {
+    user.isFriend = "Stranger";
+  }
+  render();
+  console.log(user);
+  console.dir(dets.target);
+});
