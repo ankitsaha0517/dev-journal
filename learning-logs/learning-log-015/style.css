@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -8,4 +10,127 @@ html,
 body {
   width: 100%;
   height: 100%;
+}
+
+#main {
+  height: 100%;
+  width: 100%;
+  background-color: #282727ca;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  font-family: "Poppins", sans-serif;
+  flex-wrap: wrap;
+}
+
+#box {
+  height: 450px;
+  width: 350px;
+  background: #fff;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.cover-img {
+  width: 100%;
+  height: 170px;
+  border-radius: 20px;
+  position: relative;
+  margin-bottom: 15%;
+  background-position: center;
+}
+.profile-img {
+  width: 100px;
+  height: 100px;
+  border: 4px solid white;
+  position: absolute;
+  border-radius: 50%;
+  bottom: 0;
+  transform: translate(30%, 40%);
+  overflow: hidden;
+}
+.profile-img img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.cal {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f3f6fb;
+  padding: 10px 16px;
+  border-radius: 15px;
+}
+.cal .info {
+  text-align: center;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.hedder {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.stutas {
+  display: flex;
+  gap: 5px;
+  background: #f3f6fb;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 10px;
+  border-radius: 100px;
+}
+.stutas .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+.stutas .Online {
+  background-color: #74f946;
+}
+.stutas .Offline {
+  background-color: red;
+}
+h5 {
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: #9ea1a6;
+}
+
+h1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+h2 {
+  font-size: 1.3rem;
+}
+h4 {
+  font-weight: 500;
+  font-size: 0.9rem;
+  margin-top: -5px;
+  color: #9ea1a6;
+}
+button {
+  background: #000;
+  color: #fff;
+  border: none;
+  outline: none;
+  width: 100%;
+  border-radius: 100px;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 12px 10px;
+  cursor: pointer;
+}
+.Stranger{
+  color: #720803;
+}
+.Friend{
+  color: #2c9e06;
 }

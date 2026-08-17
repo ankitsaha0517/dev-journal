@@ -52,3 +52,49 @@ let data = [
       "https://i.pinimg.com/736x/99/2f/de/992fdecdc07942fc770f2fd6f45cfc89.jpg",
   },
 ];
+
+let main = document.querySelector("#main");
+
+function render() {
+  let sum = "";
+  data.forEach((dct, idx) => {
+    sum += `
+  <div id="box">
+      <div class="cover-img" style="background: url('${dct.coverImage}');" >
+        <div class="profile-img">
+            <img src=${dct.profileImage} alt="">
+        </div>
+      </div>
+      <div class="details">
+        <div class="hedder">
+          <div class="name">
+            <h1>${dct.name}</h1>
+            <h4>${dct.role} | <span class="${dct.isFriend}">${dct.isFriend}</span> </h4>
+          </div>
+          <div class="stutas">
+            <div class="dot  ${dct.status}" ></div>
+            <h5>${dct.status}</h5>
+          </div>
+        </div>
+        <div class="cal">
+          <div class="info">
+            <h2>${dct.rating}</h2>
+            <h4>Rating</h4>
+          </div>
+          <div class="info">
+            <h2>${dct.hours}</h2>
+            <h4>Hours</h4>
+          </div>
+          <div class="info">
+            <h2>${dct.months}</h2>
+            <h4>Months</h4>
+          </div>
+        </div>
+        <button id="${idx}">  ${dct.isFriend == "Friend" ? "Remove Friend" : "Add Friend"}</button>
+      </div>
+    </div>`;
+  });
+
+  main.innerHTML = sum;
+}
+render()
