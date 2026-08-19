@@ -85,4 +85,24 @@ function task1() {
   });
 }
 
+function task2() {
+  let editorSpace = document.querySelector("#editor-space");
+  let customCursor = document.querySelector("#custom-cursor");
+
+  editorSpace.addEventListener("mouseenter", () => {
+    customCursor.classList.remove("hidden");
+  });
+
+  editorSpace.addEventListener("mousemove", (event) => {
+    // Use offsetX and offsetY to position the cursor relative to the editorSpace element
+    customCursor.style.left = `${event.offsetX}px`;
+    customCursor.style.top = `${event.offsetY}px`;
+  });
+
+  editorSpace.addEventListener("mouseleave", () => {
+    customCursor.classList.add("hidden");
+  });
+}
+
 task1()
+task2()
