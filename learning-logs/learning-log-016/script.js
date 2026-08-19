@@ -60,3 +60,29 @@ swiper.on("slideChange", function () {
 document.getElementById("restart-course").addEventListener("click", () => {
   swiper.slideTo(0);
 });
+
+
+function task1() {
+  let insta_img = document.querySelector("#instagram-img");
+  let heart = document.querySelector("#heart");
+  let red_heart = document.querySelector("#red-heart");
+
+  let isFalse = false;
+
+  insta_img.addEventListener("dblclick", () => {
+    heart.classList.remove("hidden");
+    heart.classList.add("animate-heart-pop");
+    if (!isFalse) {
+      red_heart.classList.remove("ri-heart-3-line");
+      red_heart.classList.add("ri-heart-3-fill");
+      red_heart.classList.add("text-red-600");
+      red_heart.classList.add("animate-fade-in-up");
+    }
+
+    setTimeout(() => {
+      heart.classList.add("hidden");
+    }, 800);
+  });
+}
+
+task1()
